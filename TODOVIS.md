@@ -8,9 +8,9 @@
 | Fill | Fill | Fill  | TODO   |  [Visualization 5](#visualization-5) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 6](#visualization-6) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 7](#visualization-7) | <li> [ ] </li>  |
-| Fill | Fill | Fill  | TODO   |  [Visualization 8](#visualization-8) | <li> [ ] </li>  |
-| Fill | Fill | Fill  | TODO   |  [Visualization 9](#visualization-9) | <li> [ ] </li>  |
-| Fill | Fill | Fill  | TODO   |  [Visualization 10](#visualization-10) | <li> [ ] </li>  |
+| Most popular companies and percentage of representatives from each party | Fill | Austin  | TODO   |  [Visualization 8](#visualization-8) | <li> [ ] </li>  |
+| Number of investments made in each state | Heat map | Austin  | TODO   |  [Visualization 9](#visualization-9) | <li> [ ] </li>  |
+| Most popular industries invested in | Bar Chart | Austin  | TODO   |  [Visualization 10](#visualization-10) | <li> [ ] </li>  |
 
 
 ### Visualization 1
